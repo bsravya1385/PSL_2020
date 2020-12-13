@@ -1,0 +1,10 @@
+name: movierecommender_sravya
+title:
+username:
+account: sravyab2
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 3394644
+bundleId: 3982495
+url: https://sravyab2.shinyapps.io/movierecommender_sravya/
+when: 1607858026.2309
