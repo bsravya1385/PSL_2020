@@ -2,4 +2,4 @@
 
 MOVIE RECOMMENDER
 
-Demo [Shinyapp_link]
+Demo [Shinyapp_link] - https://sravyab2.shinyapps.io/movierecommender_sravya/
